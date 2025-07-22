@@ -10,4 +10,4 @@ CSS3
 this is frontend only website with no backend fuctionality . perfect for learning HTML/CSS layout structure
 
 #Author
-Made with by Feisal
+Made  by Feisal
